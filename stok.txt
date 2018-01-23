@@ -1,0 +1,68 @@
+Kaos Bola Chelsea | Kaos | Laki-Laki | Biru | 0.15 | Jersey | 110000 | 200 | 150 | 160 | 140 | 97 | 10
+Kaos Mickey Mouse | Kaos | Perempuan | Merah | 0.10 | Cotton | 90000 | 150 | 150 | 160 | 150 | 80 | 20
+Kemeja Kancing Polos | Kemeja | Perempuan | Hijau | 0.14 | Drill | 120000 | 130 | 140 | 140 | 150 | 99 | 20
+Kemeja Batik Mega Mendung | Kemeja | Laki-Laki | Hijau | 0.20 | Sutra | 180000 | 140 | 150 | 140 | 130 | 50 | 40
+Blouse Wanita Lengan Panjang | Blouse | Perempuan | Merah | 0.08 | Sifon | 98000 | 140 | 130 | 150 | 140 | 79 | 20
+Blouse Batik Form | Blouse | Perempuan | Hitam | 0.20 | Chiffon | 130000 | 143 | 136 | 156 | 145 | 108 | 30
+Rok Syahrini | Rok | Perempuan | Coklat | 0.16 | Linen | 125000 | 136 | 144 | 157 | 133 | 97 | 20
+Rok Mini Ngembang | Rok | Perempuan | Pink | 0.18 | Satin | 130000 | 154 | 147 | 144 | 157 | 94 | 20
+Celana Pensil | Celana | Perempuan | Biru Tua | 0.20 | Denim | 100000 | 136 | 122 | 167 | 184 | 85 | 30
+Celana Pendek Loreng Army | Celana | Laki-Laki | Hijau | 0.20 | Cargo | 95000 | 136 | 144 | 173 | 166 | 95 | 20
+Kaos Kaki Fila | Kaos Kaki | Laki-laki | Hitam | 0.05 | Acrylic | 20000 | 142 | 173 | 188 | 153 | 79 | 20
+Kaos Kaki Polkadot | Kaos Kaki | Perempuan | Ungu | 0.05 | Katun | 14000 | 163 | 177 | 142 | 136 | 84 | 10
+Kaos Distro Berkerah | Kaos | Laki-Laki | Hitam | 0.10 | Cotton | 105000 | 156 | 164 | 162 | 153 | 111 | 20
+Kaos Seksi | Kaos | Perempuan | Kuning | 0.10 | Cotton Viscose | 90000 | 163 | 158 | 146 | 164 | 96 | 10
+Kemeja Kerah Polos | Kemeja | Laki-Laki | Abu-abu | 0.11 | Paris | 129000 | 146 | 131 | 122 | 155 | 91 | 20
+Kemeja Katun Garis | Kemeja | Perempuan | Hijau | 0.12 | Katun | 118000 | 143 | 156 | 165 | 177 | 102 | 15
+Blouse Pesta Pita | Blouse | Perempuan | Krem | 0.18 | Jersey | 127000 | 156 | 126 | 174 | 126 | 73 | 22
+Blouse Remaja | Blouse | Laki-Laki | Abu-abu | 0.15 | Rayon | 106500 | 154 | 134 | 167 | 177 | 95 | 30
+Rok Ashanty | Rok | Perempuan | Merah | 0.20 | Chiffon | 155000 | 132 | 128 | 164 | 179 | 83 | 12
+Rok Gold Ribbon | Rok | Perempuan | Oranye | 0.18 | Lace | 161000 | 137 | 154 | 152 | 136 | 86 | 14
+Celana Kantoran | Celana | Laki-Laki | Hitam | 0.16 | Pantalon | 160000 | 146 | 156 | 123 | 167 | 64 | 20
+Celana Gunung | Celana | Laki-Laki | Coklat | 0.21 | Cargo | 157500 | 162 | 136 | 149 | 158 | 94 | 30
+Kaos Kaki Stocking Panjang | Kaos Kaki | Perempuan | Hitam | 0.06 | Stocking | 20000 | 163 | 135 | 127 | 145 | 97 | 10
+Kaos Kaki Stocking Pendek | Kaos Kaki | Perempuan | Hitam | 0.06 | Stocking | 18000 | 156 | 133 | 132 | 146 | 85 | 20
+Kaos Senam Ibu Hamil | Kaos | Perempuan | Abu-abu | 0.12 | Spandex | 165000 | 152 | 136 | 144 | 155 | 75 | 13
+Kaos Doraemon | Kaos | Laki-Laki | Biru | 0.10 | Jersey | 85000 | 145 | 142 | 153 | 163 | 63 | 24
+Kemeja Louis Pascal | Kemeja | Perempuan | Kuning | 0.18 | Serat Nanas | 110000 | 155 | 153 | 137 | 152 | 87 | 20
+Kemeja Kotak-Kotak | Kemeja | Laki-Laki | Biru | 0.20 | Katun | 107500 | 146 | 155 | 144 | 132 | 105 | 10
+Blouse Formal Berkerah | Blouse | Laki-Laki | Putih | 0.15 | Katun | 102000 | 145 | 157 | 135 | 143 | 97 | 11
+Blouse Denim | Blouse | Perempuan | Biru | 0.22 | Denim | 160000 | 145 | 164 | 156 | 168 | 99 | 10
+Rok ABG	Rok | Rok | Perempuan | Coklat | 0.14 | Corduroy | 132000 | 146 | 144 | 115 | 133 | 134 | 20
+Rok Mini Denim | Rok | Perempuan | Hitam | 0.19 | Denim | 142000 | 145 | 146 | 144 | 16 | 135 | 23
+Celana Santai | Celana | Laki-Laki | Biru | 0.20 | Kanvas | 124500 | 180 | 150 | 120 | 180 | 110 | 30
+Celana Cutbrai | Celana | Perempuan | Hitam | 0.15 | Katun | 133000 | 140 | 150 | 120 | 190 | 160 | 10
+Kaos Kaki Muslimah | Kaos Kaki | Perempuan | Coklat | 0.05 | Nylon | 17000 | 170 | 140 | 150 | 160 | 190 | 20
+Kaos Kaki Futsal | Kaos Kaki | Laki-Laki | Merah | 0.08 | Spandek | 22000 | 160 | 140 | 150 | 170 | 140 | 22
+Kemeja Jokowi | Kemeja | Laki-Laki | Merah | 0.85 | Paris | 105000 | 140 | 130 | 150 | 150 | 120 | 10
+Kemeja Annisa | Kemeja | Perempuan | Pink | 0.15 | Mori | 135000 | 150 | 130 | 130 | 150 | 110 | 31
+Kaos Kaki Cute Warm | Kaos Kaki | Perempuan | Putih | 0.05 | Wol | 34000 | 160 | 140 | 120 | 160 | 140 | 20
+Kaos Oblong | Kaos | Laki-Laki | Putih | 0.10 | Cotton | 15000 | 110 | 120 | 120 | 110 | 100 | 5
+Track Jacket Adidas | Jaket | Laki-Laki | Hitam | 1.50 | Fleece | 200000 | 100 | 110 | 110 | 110 | 110 | 5
+Trefoil Tee Adidas | Kaos | Laki-Laki | Putih | 0.20 | Kain | 100000 | 110 | 180 | 110 | 110 | 120 | 5
+QuincyLabel Denim Jeans Shirt | Kemeja | Laki-Laki | Biru | 0.80 | Denim | 129000 | 150 | 110 | 110 | 150 | 120 | 10
+Louis Orion Raglan Shirt | Kaos | Laki-Laki | Merah | 0.50 | Cotton | 109000 | 110 | 110 | 110 | 110 | 110 | 10
+TSP Blue Crush Flannel | Kaos | Laki-Laki | Biru | 1.00 | Cotton | 150000 | 115 | 110 | 115 | 110 | 110 | 10
+iGee Kemeja Lengan Panjang | Kemeja | Laki-Laki | Hitam | 1.00 | Cotton | 100000 | 110 | 110 | 110 | 110 | 110 | 8
+Batik Nagarihardja | Kemeja | Laki-Laki | Merah | 0.25 | Cotton | 105000 | 110 | 110 | 110 | 115 | 110 | 10
+Elfs Shop Kemeja Kantor | Kemeja | Laki-Laki | Biru | 0.25 | Cotton | 110000 | 110 | 120 | 110 | 110 | 110 | 14
+Batik Unggul Jaya Kemeja | Kemeja | Laki-Laki | Cokelat | 1.00 | Cotton | 105000 | 110 | 110 | 110 | 110 | 110 | 10
+Zens Jaket Motor | Jaket | Laki-Laki | Hitam | 1.50 | Kulit | 150000 | 110 | 110 | 110 | 110 | 110 | 12
+RVCA Jaket Original | Jaket | Laki-Laki | Hitam | 0.80 | Cotton | 250000 | 110 | 110 | 110 | 110 | 120 | 10
+Otiv Navy Pocket Jacket | Jaket | Laki-Laki | Biru | 1.00 | Fleece | 250000 | 110 | 110 | 110 | 110 | 120 | 11
+Hurley Chino Original | Celana | Laki-Laki | Hitam | 0.90 | Cotton | 300000 | 100 | 100 | 100 | 100 | 100 | 10
+Edbert Shop Chino | Celana | Laki-Laki | Cokelat | 0.70 | Cotton | 250000 | 100 | 100 | 100 | 100 | 110 | 18
+Edbert Shop Jeans Timberland | Celana | Laki-Laki | Biru | 0.70 | Denim | 320000 | 100 | 100 | 100 | 100 | 100 | 20
+Zada Elisse Tops | Blouse | Perempuan | Putih | 0.30 | Cotton | 150000 | 100 | 100 | 100 | 100 | 100 | 30
+LZD Raglan Top | Blouse | Perempuan | Abu | 0.30 | Cotton | 52000 | 100 | 100 | 100 | 100 | 100 | 0
+Nana Blance Blouse | Blouse | Perempuan | Putih | 0.40 | Cotton | 136000 | 100 | 100 | 100 | 100 | 100 | 8
+Zada Eline Rok | Rok | Perempuan | Hitam | 0.30 | Cotton | 139000 | 100 | 100 | 100 | 100 | 100 | 5
+LZD Flare Skirt | Rok | Perempuan | Biru | 0.30 | Cotton | 124000 | 100 | 100 | 100 | 100 | 100 | 6
+D&K Mini Skirt | Rok | Perempuan | Hitam | 0.30 | Cotton | 99000 | 100 | 100 | 100 | 100 | 100 | 10
+Zaza Adzra Dress | Dress | Perempuan | Hitam | 0.50 | Cotton | 109000 | 100 | 100 | 100 | 100 | 100 | 10
+LZD Maxi Dress | Dress | Perempuan | Hitam | 0.30 | Cotton | 129000 | 100 | 100 | 100 | 100 | 100 | 13
+Metalindo Levy Dress | Dress | Perempuan | Putih | 0.40 | Cotton | 128000 | 100 | 100 | 100 | 100 | 100 | 10
+Bulu Mata Syahrini | Aksesoris | Perempuan | Hitam | 0.01 | Bulu | 40000 | 100 | 100 | 100 | 100 | 122 | 5
+Ikat Kepala Konoha | Aksesoris | Laki-Laki | Hitam | 0.80 | Kain | 90000 | 100 | 100 | 100 | 100 | 110 | 5
+Topi Jerami | Aksesoris | Laki-Laki | Cokelat | 0.20 | Jerami | 90000 | 100 | 100 | 100 | 100 | 120 | 5
+Sarung Tangan Tinju | Aksesoris | Laki-Laki | Merah | 1.00 | Polyester | 150000 | 100 | 100 | 100 | 100 | 130 | 5
